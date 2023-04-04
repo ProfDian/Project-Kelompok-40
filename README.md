@@ -1,5 +1,4 @@
 Hello, this is just a small project.
-
 # Project-Kelompok-40
 Anggota Kelompok 40 Shift 6 :  
 Abdul Fattah Rahmadiansyah 21120122120028 
